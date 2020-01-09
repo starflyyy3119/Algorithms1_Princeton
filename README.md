@@ -1,2 +1,2 @@
 # Algorithms1_Princeton
-The coding task for the course Algorithms1
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
