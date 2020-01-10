@@ -1,3 +1,5 @@
+import java.util.Iterator;
+
 public class ResizingArrayStackOfStrings {
 
     private String[] s;
@@ -31,5 +33,15 @@ public class ResizingArrayStackOfStrings {
             copy[i] = s[i];
         }
         s = copy;
+    }
+    
+    public Iterator<Item> iterator() { return new ReverseArrayIterator(); }
+    
+    private class ReverseArrayIterator implements Iterator<Item> {
+        private int i = N;
+        
+        public boolean hasNext() { return i > 0;   }
+        public void remove()     {/*not supported*/}
+        public Item next()       {return s[--i];   }
     }
 }
