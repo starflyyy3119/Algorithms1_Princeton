@@ -7,3 +7,4 @@
 [Interger.parseInt](https://github.com/starflyyy3119/Algorithms1_Princeton/blob/master/Percolation/PercolationStats.java)
 
 ## Stacks and queues
+[Generic and iterator implementation of Stack](https://github.com/starflyyy3119/Algorithms1_Princeton/blob/master/DequesAndRandomizedQueues/ImplementationOfStackAndQueue/Stack.java)
