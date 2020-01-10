@@ -3,3 +3,4 @@
 
 [throw exception](https://github.com/starflyyy3119/Algorithms1_Princeton/blob/master/Percolation/Percolation.java)
 
+[Interger.parseint](https://github.com/starflyyy3119/Algorithms1_Princeton/blob/master/Percolation/PercolationStats.java)
