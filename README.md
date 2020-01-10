@@ -7,4 +7,6 @@
 [Interger.parseInt](https://github.com/starflyyy3119/Algorithms1_Princeton/blob/master/Percolation/PercolationStats.java)
 
 ## Stacks and queues
-[Generic and iterator implementation of Stack](https://github.com/starflyyy3119/Algorithms1_Princeton/blob/master/DequesAndRandomizedQueues/ImplementationOfStackAndQueue/Stack.java)
+[Generic and iterator implementation of Stack(Linked list)](https://github.com/starflyyy3119/Algorithms1_Princeton/blob/master/DequesAndRandomizedQueues/ImplementationOfStackAndQueue/Stack.java)
+
+[Generic and iterator implementation of Stack(Array)](https://github.com/starflyyy3119/Algorithms1_Princeton/edit/master/DequesAndRandomizedQueues/ImplementationOfStackAndQueue/ResizingArrayStackOfStrings.java)
