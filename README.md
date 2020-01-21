@@ -17,5 +17,4 @@
 [Use StdIn read .txt files](https://github.com/starflyyy3119/Algorithms1_Princeton/blob/master/DequesAndRandomizedQueues/Permutation.java)
 
 ### Collinear Points
-[How to implement interface Comparable and Comparator]
-(https://github.com/starflyyy3119/Algorithms1_Princeton/blob/master/Collinear/Point.java)
+[How to implement interface Comparable and Comparator](https://github.com/starflyyy3119/Algorithms1_Princeton/blob/master/Collinear/Point.java)
