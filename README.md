@@ -18,3 +18,5 @@
 
 ### Collinear Points
 [How to implement interface Comparable and Comparator](https://github.com/starflyyy3119/Algorithms1_Princeton/blob/master/Collinear/Point.java)
+
+[What I learn from the collinear points project?](https://github.com/starflyyy3119/Algorithms1_Princeton/blob/master/Collinear/What%20I%20learn.md)
