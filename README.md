@@ -23,4 +23,5 @@
 
 ### 8puzzle
 [StringBuilder](https://github.com/starflyyy3119/Algorithms1_Princeton/blob/master/8puzzle/Board.java)
+
 [Iterable and Iterator](https://github.com/starflyyy3119/Algorithms1_Princeton/blob/master/8puzzle/Board.java)
